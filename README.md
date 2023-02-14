@@ -24,6 +24,7 @@ Colabore com esse projeto e me dê mais dicas de comando no Git e como melhorar 
 
 Meu nome é Ian Alves Sousa e quer saber mais de mim? Entre em contato e se conecte através das minhas redes.
 LinkedIn: www.linkedin.com/in/ian-alves-sousa
+
 Instragram: @ianzinho_alves
 
 ## 🎁 Expressões de gratidão
